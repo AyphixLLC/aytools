@@ -6,5 +6,6 @@
     {"id": "musician", "name":"Musician"},
     {"id": "sound_engineer", "name":"Sound Engineer"},
     {"id": "programmer", "name":"Programmer"},
-    {"id": "general", "name":"General Tools"}
+    {"id": "general", "name":"General Tools"},
+    {"id": "character_designer", "name": "Character Designer"}
 ]
