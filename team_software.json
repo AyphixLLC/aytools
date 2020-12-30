@@ -5,11 +5,11 @@
     "level_designer": [
       "unityhub"
     ],
-    "3D Artist": [
+    "3d_artist": [
         "blender",
         "sheepit"
     ],
-    "2D Artist": [
+    "2d_artist": [
         "krita",
         "mypaint"
     ],
@@ -23,7 +23,7 @@
         "vscode",
         "nodepadplusplus"
     ],
-    "general_tools": [
+    "general": [
         "powertoys"
     ]
   }

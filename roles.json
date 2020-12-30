@@ -1,0 +1,10 @@
+[
+    {"id": "writer", "name":"Writer"},
+    {"id": "level_designer", "name":"Level Designer"},
+    {"id": "3d_artist", "name":"3D Artist"},
+    {"id": "2d_artist", "name":"2D Artist"},
+    {"id": "musician", "name":"Musician"},
+    {"id": "sound_engineer", "name":"Sound Engineer"},
+    {"id": "programmer", "name":"Programmer"},
+    {"id": "general", "name":"General Tools"}
+]
