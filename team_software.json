@@ -1,29 +1,29 @@
 {
     "writer": [
-      "libreoffice-still"
+        { "id":"libreoffice-still", "name": "Libre Office" }
     ],
     "level_designer": [
-      "unityhub"
+        { "id": "unityhub", "name": "Unity Hub" }
     ],
     "3d_artist": [
-        "blender",
-        "sheepit"
+        { "id": "blender", "name": "Blender" },
+        { "id": "sheepit", "name": "Sheepit Renderfarm" }
     ],
     "2d_artist": [
-        "krita",
-        "mypaint"
+        { "id":"krita","name":"Krita" },
+        { "id": "mypaint", "name": "My Paint" }
     ],
     "musician": [
-        "audacity"
+        { "id": "audacity", "name": "Audacity" }
     ],
     "sound_egineer": [
-        "audacity"
+        { "id": "audacity", "name": "Audacity" }
     ],
     "programmer": [
-        "vscode",
-        "nodepadplusplus"
+        { "id":"vscode", "name": "VS Code"},
+        { "id": "nodepadplusplus", "name": "Notepad ++" }
     ],
     "general": [
-        "powertoys"
+        { "id": "powertoys", "name": "Microsoft PowerToys" }
     ]
   }
