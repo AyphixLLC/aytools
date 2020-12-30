@@ -1,0 +1,29 @@
+{
+    "writer": [
+      "libreoffice-still"
+    ],
+    "level_designer": [
+      "unityhub"
+    ],
+    "3D Artist": [
+        "blender",
+        "sheepit"
+    ],
+    "2D Artist": [
+        "krita",
+        "mypaint"
+    ],
+    "musician": [
+        "audacity"
+    ],
+    "sound_egineer": [
+        "audacity"
+    ],
+    "programmer": [
+        "vscode",
+        "nodepadplusplus"
+    ],
+    "general_tools": [
+        "powertoys"
+    ]
+  }
