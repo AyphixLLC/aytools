@@ -3,7 +3,7 @@
         { "id":"libreoffice-still", "name": "Libre Office" }
     ],
     "level_designer": [
-        { "id": "unityhub", "name": "Unity Hub" }
+        { "id": "unity-hub", "name": "Unity Hub" }
     ],
     "3d_artist": [
         { "id": "blender", "name": "Blender" },
