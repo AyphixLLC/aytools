@@ -7,7 +7,7 @@
     ],
     "3d_artist": [
         { "id": "blender", "name": "Blender" },
-        { "id": "sheepit", "name": "Sheepit Renderfarm" }
+        { "id": "sheepit-client --package-parameters=\"/NoStartMenu /Desktop\"", "name": "Sheepit Renderfarm" }
     ],
     "2d_artist": [
         { "id":"krita","name":"Krita" },
