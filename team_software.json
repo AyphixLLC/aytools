@@ -21,7 +21,7 @@
     ],
     "programmer": [
         { "id":"vscode", "name": "VS Code"},
-        { "id": "nodepadplusplus", "name": "Notepad ++" }
+        { "id": "notepadplusplus", "name": "Notepad ++" }
     ],
     "general": [
         { "id": "powertoys", "name": "Microsoft PowerToys" }
